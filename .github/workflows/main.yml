@@ -33,5 +33,5 @@ jobs:
 
       - id: jupyter 
         name: Jupyter Notebook Execution
-        run: Spark_network_assignment_Puja_Singh.ipynb
+        run: jupyter execute Spark_network_assignment_Puja_Singh.ipynb
         shell: bash
