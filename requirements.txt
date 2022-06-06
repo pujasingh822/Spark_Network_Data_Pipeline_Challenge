@@ -2,7 +2,7 @@ Jupyterlab
 nbclient
 pandas
 requests
-json
+json5==0.9.5
 mysql.connector
 sqlalchemy
 create_engine
