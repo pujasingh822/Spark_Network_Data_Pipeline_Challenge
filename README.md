@@ -1,2 +1,4 @@
 # Spark_Network_Data_Pipeline_Challenge
-Creation of data pipeline for JSON data ,apply data transformation and PII handling and derive insights from data using MySQL Database
+1.Creation of data pipeline for ingesting JSON data from api into dataframes.
+2.Apply data transformation and PII handling .
+3. Derive insights from data using MySQL Database sql queries.
