@@ -1,0 +1,9 @@
+Jupyterlab
+nbclient
+pandas
+requests
+json
+mysql.connector
+sqlalchemy
+create_engine
+pymysql
